@@ -1,0 +1,108 @@
+{
+  "events": [
+    {
+      "id": "42c8",
+      "title": "Test",
+      "date": "2025-04-16",
+      "category": "Social",
+      "location": "To be announced",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "761a",
+      "title": "Prasad",
+      "date": "2025-04-16",
+      "category": "Religious",
+      "location": "City Stadium",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "940d",
+      "title": "Good Frieday",
+      "date": "2025-04-17",
+      "category": "Religious",
+      "location": "Community Center",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "a1e5",
+      "title": "Easter Worship",
+      "date": "2025-04-19",
+      "category": "Religious",
+      "location": "Local Park",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "274c",
+      "title": "New year",
+      "date": "2025-03-31",
+      "category": "Social",
+      "location": "Downtown",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "74da",
+      "title": "Dinner",
+      "date": "2025-04-23",
+      "category": "Social",
+      "location": "Local Park",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "b08b",
+      "title": "Prakash",
+      "date": "2025-04-22",
+      "category": "Social",
+      "location": "Local Park",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "0505",
+      "title": "Event 2",
+      "date": "2025-04-29",
+      "category": "Charity",
+      "location": "Library",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "fb81",
+      "title": "Mani Kumar",
+      "date": "2025-04-23",
+      "category": "Social",
+      "location": "Community Center",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "0b06",
+      "title": "Church",
+      "date": "2025-04-19",
+      "category": "Religious",
+      "location": "Community Center",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "8d47",
+      "title": "House Warming",
+      "date": "2025-04-16",
+      "category": "Social",
+      "location": "City Stadium",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "62c0",
+      "title": "Test1",
+      "date": "2025-04-24",
+      "category": "Charity",
+      "location": "Library",
+      "description": "Details will be updated soon."
+    },
+    {
+      "id": "40e4",
+      "title": "Occassion",
+      "date": "2025-04-29",
+      "category": "Social",
+      "location": "Local Park",
+      "description": "Details will be updated soon."
+    }
+  ]
+}
